@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elismmc.site/sitemap.xml
